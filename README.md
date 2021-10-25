@@ -16,6 +16,7 @@
   <li>React-native</li>
 </ul>
 
+![appFinancasGif](https://user-images.githubusercontent.com/82960240/138721231-93a41706-0fca-4af3-8129-b00a575cb22d.gif)
 
 
 <h3>Autor</h3>
